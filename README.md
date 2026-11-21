@@ -4,7 +4,7 @@ Bir market zincirinde kuponların çoğu boşa gidiyor. Bu projede **doğru hane
 
 > Workintech veri analisti bootcamp'i (DATA0826.2) ekip projesi
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tansu428/dunnhumby-kupon-analizi/blob/main/notebooks/dunnhumby_kupon_analizi.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tansuuludag/dunnhumby-kupon-analizi/blob/main/notebooks/dunnhumby_kupon_analizi.ipynb)
 
 ## Veri
 [Dunnhumby – The Complete Journey](https://www.dunnhumby.com/source-files/): 2.500 hanenin iki yıllık alışverişi, 8 tablo (işlemler, ürünler, kampanyalar, kuponlar, demografi).
